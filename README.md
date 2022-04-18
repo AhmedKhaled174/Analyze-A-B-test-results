@@ -5,8 +5,11 @@ For this project, I will be working to understand the results of an A/B test run
 # PROJECT SPECIFICATION
 ## Code Quality
 1- All code cells can be run without error.
+
 2- Docstrings, comments, and variable names enable readability of the code.
 ## Statistical Analyses
 1- All results from different analyses are correctly interpreted.
+
 2- For all numeric values, you should provide the correct results of the analysis.
+
 3- Conclusions should include not only statistical reasoning, but also practical reasoning for the situation.
